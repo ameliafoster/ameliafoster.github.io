@@ -16,6 +16,7 @@ div {
   border: 2px dashed black;
   background color: #ccc;
   text-align: center;
+  float:right;
   
 }
 
